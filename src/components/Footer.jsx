@@ -26,7 +26,7 @@ export default function Footer({ darkMode }) {
           <span className={`text-base font-bold tracking-wider ${
             darkMode ? 'text-white' : 'text-slate-900'
           }`}>
-            ANHISHEK<span className="text-neon-magenta font-extrabold">.DEV</span>
+            ABHISHEK<span className="text-neon-magenta font-extrabold">.DEV</span>
           </span>
           <p className="text-xs font-mono">
             © 2026 Abhishek Kumar Singh. All rights reserved.
