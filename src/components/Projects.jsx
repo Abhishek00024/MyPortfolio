@@ -36,7 +36,7 @@ export default function Projects({ darkMode }) {
       ],
       tech: ['React.js', 'HTML5', 'Tailwind CSS3','Jquery'],
       deployUrl: 'https://6a1b258149268e7fecb79dba--super-otter-32abd1.netlify.app/',
-      githubUrl: 'https://github.com/Abhishek00024?tab=repositories',
+      githubUrl: 'https://github.com/Abhishek00024/Doctors_Appointment_Booking',
       deployUrl: 'https://6a1b258149268e7fecb79dba--super-otter-32abd1.netlify.app/',
       icon: <Database className="w-6 h-6 text-neon-magenta" />,
       accentColor: 'neon-magenta',
